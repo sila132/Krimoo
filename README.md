@@ -7,7 +7,7 @@ Krimoo is an innovative, health-focused ice cream brand concept designed to deli
 Many individuals who follow specific health regimens, manage dietary restrictions, or monitor their daily intake struggle to find satisfying dessert options that align with their lifestyle without hidden sugars or artificial additives.
 
 **Key Features**
-Nutritionally Balanced Formulations:** Crafted with premium ingredients, reduced sugar, and high-quality protein options.
+Nutritionally Balanced Formulations: Crafted with premium ingredients, reduced sugar, and high-quality protein options.
 Dietary-Inclusive Range: Options suitable for various lifestyle preferences, including keto, dairy-free, and low-calorie choices.
 Transparent Labeling:Clear, accessible ingredient breakdowns and macro profiling for health-conscious consumers.
 
