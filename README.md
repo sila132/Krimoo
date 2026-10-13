@@ -12,19 +12,19 @@ Indulgence without exclusion. Delicious, ultra-inclusive frozen desserts crafted
 ## Multi-Line Portfolio Structure
 A clear, color-coded product architecture separated into distinct, specialized ice cream ranges rather than a single all-in-one compromise—ensuring every customer gets a formula engineered specifically for their exact needs.
 
-### Diabetes-Friendly Line (GlycoSmart)
+### Diabetes-Friendly Line 
 Dedicated low-glycemic, zero-refined-sugar ice creams formulated with natural sweeteners (monk fruit/stevia) to prevent blood sugar spikes for diabetic and low-carb consumers.
 
-### Gluten-Free Line (PureCare)
+### Gluten-Free Line 
 Certified gluten-free ice creams engineered specifically for celiac disease sufferers and gluten-sensitive individuals.
 
-### Lactose-Free Line (PureCare)
+### Lactose-Free Line 
 Dairy-free and lactose-free ice creams using plant-based bases (oat milk, almond milk) for lactose-intolerant consumers.
 
-### Nut-Free Line (PureCare)
+### Nut-Free Line 
 Certified nut-free ice cream formulations produced in a strict anti-contamination environment to ensure complete safety for severe nut allergy sufferers.
 
-### Fitness & Lifestyle Line (ProFit)
+### Fitness & Lifestyle Line 
 High-protein, low-calorie ice creams (20g+ protein per pint) tailored specifically for gym-goers, athletes, and calorie-conscious consumers as a functional post-workout treat.
 
 ## Key Features
