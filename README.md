@@ -46,3 +46,5 @@ Multi-line availability through owned D2C subscription apps, 30-minute Q-Commerc
 - Quality First: Real ingredients without unnecessary fillers or artificial preservatives.
 - Guilt-Free Indulgence: Bringing the joy of authentic ice cream to fitness and wellness-minded individuals.
 
+Link Drive:
+https://drive.google.com/drive/folders/14zdzkwPKQlbcrBndx0cSPfTZaMZVTA7b?usp=sharing
