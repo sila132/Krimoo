@@ -48,9 +48,9 @@ We make delicious frozen desserts for everyone, no matter their allergies, healt
 
 | Name | Role |
 | :--- | :--- |
-| **Asil Nader** : Team Leader 
-| **Omnia Mohamed** : Team Member
-| **Hoor Mohamed** : Team Member |
+| **Asil Nader** | Team Leader |
+| **Omnia Mohamed** | Team Member |
+| **Hoor Mohamed** | Team Member |
 | **Malak Khaled** | Team Member |
 | **Judy Ibrahim** | Team Member |
 | **Habiba Mohamed Ibrahim** | Team Member |
