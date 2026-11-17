@@ -7,6 +7,7 @@
 ## Project Files
 - **Track:** Digital Marketing Specialist
 - **Milestone 1 Google Drive Folder:** [Access Milestone 1 Files](https://drive.google.com/drive/folders/14zdzkwPKQlbcrBndx0cSPfTZaMZVTA7b?usp=sharing)
+- **Milestone 2 Google Drive Folder:** [Access Milestone 2 Files](https://drive.google.com/drive/folders/1MeKCZ_9aTVdWr1J8ZxuHAN6FG33A3xhs?usp=drive_link)
 
 ---
 
